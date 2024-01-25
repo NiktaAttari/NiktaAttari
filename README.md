@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NiktaAttari
-- 👀 I’m interested in ML. VR/AR development.
+- 👀 I’m interested in ML, VR/AR development.
 - 🌱 I’m currently learning Basics of CNN and GNN.
 - 📫 How to reach me mail: niktaat2000@gmail.com
 - 😄 Pronouns: She/Her
